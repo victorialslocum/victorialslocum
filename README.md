@@ -4,4 +4,4 @@ I recently graduated from UC San Diego with a degree in linguistics and a passio
 
 I'm just starting my career as a Developer Advocate for Explosion 💥, the makers of spaCy! I'm doing cool things for our community, like example projects, videos, visuals, and posts, and learning lots.  
  
-📫 You can reach me at [my email](victoria@explosion.ai) or find more information on [my website](https://victoriaslocum.com)!  
+You can reach me at [my email](victoria@explosion.ai) or find more information on [my website](https://victoriaslocum.com)! 📫   
