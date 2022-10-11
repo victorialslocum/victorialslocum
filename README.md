@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Victoria!
 
-### I'm currently working on DevRel for Explosion 💥
+### I'm a developer advocate with Explosion 💥
 
 👀 I’m a bit obsessed with NLP  
 🌱 I’m growing my skills as a programmer  
