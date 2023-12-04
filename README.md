@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m Victoria!  
 
-I'm currently helping to expand and educate the community around spaCy and other developer tools with 💥 Explosion. I'm kind of obsessed with natural language processing and working on cool projects that challenge my understanding of the world. 
+I'm currently working as a Machine Learning Engineer at [Weaviate](https://weaviate.io). I'm kind of obsessed with the challenges and evolutions within the expanding world of AI, creating cool projects that build my knowledge and skills, and learning and sharing within the developer community.
  
 You can find more information on [my website](https://victoriaslocum.com) 🕸️
